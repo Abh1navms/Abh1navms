@@ -20,8 +20,9 @@ Currently seeking opportunities as a **Data Analyst** or related analytical role
 - 🛠️ Proficient in **Python**, **SQL**, **Power BI**, **Excel**, and more
 - 📊 Hands-on with data visualization, automation, and dashboards
 - 🌱 Currently learning: **Advanced Analytics** and **Cloud Data Tools**
-- 💬 Ask me about: analytics, reporting, automation, or **AI workflows**
-- 📫 Email me at: **abh1navms@gmail.com**
+- Open to roles in Data Analysis, Reporting, or Business Intelligence where I can grow and contribute.
+
+
 
 ---
 
