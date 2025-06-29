@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=Hi+I'm+Abhinav+MS+👋;Aspiring+Data+Analyst+%7C+BCA+Graduate+📊;Turning+Data+into+Actionable+Insights+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Hi+There%2C+I'm+Abhinav+MS+%F0%9F%91%8B;I'm+an+Aspiring+Data+Analyst+%F0%9F%92%BC;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </p>
 
 
----
+
 
 ### 🙋‍♂️ Welcome to My GitHub!
 
