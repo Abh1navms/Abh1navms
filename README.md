@@ -19,7 +19,7 @@ Currently seeking opportunities as a **Data Analyst** or related analytical role
 - 🤖 Regular user of **AI tools** like ChatGPT, Gemini, etc., for productivity & automation
 - 🛠️ Proficient in **Python**, **SQL**, **Power BI**, **Excel**, and more
 - 📊 Hands-on with data visualization, automation, and dashboards
-- 🌱 Currently learning: **Advanced Analytics**, **Machine Learning**, and **Cloud Data Tools**
+- 🌱 Currently learning: **Advanced Analytics** and **Cloud Data Tools**
 - 💬 Ask me about: analytics, reporting, automation, or **AI workflows**
 - 📫 Email me at: **abh1navms@gmail.com**
 
@@ -43,19 +43,6 @@ Currently seeking opportunities as a **Data Analyst** or related analytical role
 
 ---
 
-### 🗂️ Featured Projects
-
-📊 **Sales Insights Dashboard**  
-Interactive Power BI dashboard to explore & analyze sales data.
-
-🐍 **Python Data Automation Scripts**  
-Python scripts for cleaning and automating data workflows.
-
-🧾 **SQL Analytics Portfolio**  
-Projects demonstrating SQL queries, joins, aggregations & business logic.
-
----
-
 ### 📈 GitHub Stats
 
 ![Abhinav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abh1navms&show_icons=true&theme=radical)
@@ -66,10 +53,7 @@ Projects demonstrating SQL queries, joins, aggregations & business logic.
 ### 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AbhinavMS-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-ms-445a30362)  
-[![Email](https://img.shields.io/badge/Email-abh1navms@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abh1navms@gmail.com)
-
 ---
-
 ✨ _Thanks for visiting my profile!_  
 
 ✨ **Fun Fact**  
