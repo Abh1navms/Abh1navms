@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Abhinav+MS+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+There%2C+I'm+Abhinav+MS+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </p>
  
 A BCA Graduate |  Open to Data Analyst Roles | Curious Learner 💻
